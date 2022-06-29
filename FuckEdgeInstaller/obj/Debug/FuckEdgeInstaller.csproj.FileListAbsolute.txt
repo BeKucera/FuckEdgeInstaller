@@ -1,0 +1,8 @@
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\bin\Debug\FuckEdgeInstaller.exe.config
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\bin\Debug\FuckEdgeInstaller.exe
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\bin\Debug\FuckEdgeInstaller.pdb
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\obj\Debug\FuckEdgeInstaller.csproj.AssemblyReference.cache
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\obj\Debug\FuckEdgeInstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\obj\Debug\FuckEdgeInstaller.csproj.CoreCompileInputs.cache
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\obj\Debug\FuckEdgeInstaller.exe
+C:\Users\bekucera\source\repos\FuckEdgeInstaller\FuckEdgeInstaller\obj\Debug\FuckEdgeInstaller.pdb
