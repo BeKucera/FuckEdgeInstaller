@@ -24,7 +24,7 @@ namespace FuckEdgeInstaller
             {
                 process.Kill();
             }
-
+            
             File.Move(Environment.CurrentDirectory+@"\FuckEdge.exe",msedge);
             Console.WriteLine("done");
             Console.ReadKey();
